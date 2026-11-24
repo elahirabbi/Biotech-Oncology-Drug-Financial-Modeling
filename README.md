@@ -1,0 +1,3 @@
+As an MBA consultant at Lōkahi Therapeutics, I evaluated whether to license a discontinued Phase 3 oncology drug, from its original developer.
+I sized the US market from ACS epidemiology data (229,410 cases narrowed to ~12,500 eligible patients), built per-patient unit economics ($108K revenue, ~$41K profit), and scaled them into a 12-year driver-based P&L, cash flow and risk-adjusted NPV model, with scenario analysis on market share, trial cost and discount rate.
+The drug was valued at a $42M rNPV, with market share identified as the dominant value driver (3x the impact of cost or discount rate). I modeled royalty vs. upfront deal terms, showing each 1% royalty equals ~$1.7M upfront, to set breakeven terms and support an $82M investment recommendation.
